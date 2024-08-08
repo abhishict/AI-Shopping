@@ -4,6 +4,8 @@
 
 This project aims to generate fashion images from textual descriptions by implementing the state-of-the-art AttnGAN model. The AttnGAN framework leverages fine-grained attention mechanisms to produce high-resolution, detailed images based on text inputs.
 
+![architecture](https://github.com/user-attachments/assets/f894d809-ce48-460b-baac-78156b641afd)
+
 ## Model and Framework
 
 **AttnGAN (Python 3, Pytorch 1.0)**
